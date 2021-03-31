@@ -9,3 +9,4 @@
 # 软件包地址：https://github.com/281677160/openwrt-package
 git clone https://github.com/xiaorouji/openwrt-passwall package/passwall
 git clone https://github.com/NewFuture/DDNS packages/ddns
+git clone https://github.com/felix-fly/v2ray-openwrt packages/v2ray
